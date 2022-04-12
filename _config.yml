@@ -1,0 +1,65 @@
+# Site
+name: ""
+title: ""
+description: ""
+logo: ''
+favicon: ''
+baseurl: ''
+google_analytics: ''
+include: ["_pages"]
+permalink: /:title/
+
+# Authors
+authors:
+  dee:
+    name: Deanna
+    display_name: Dee
+    email: deehamlin1@gmail.com
+    description: "Founder and artist of Dezigns"
+  ben:
+    name: Ben
+    display_name: ben
+    email: bhamlin314@gmail.com
+    web: https://linktr.ee/KaptinBadrukk314
+    twitter: https://twitter.com/KaptinBadrukkPi
+    description: "Software engineer and web developer. Assisted in creating and maintaining the website."
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+
+# Pagination
+paginate: 6
+paginate_path: /page:num/
+
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-3412143450191416"
+adsense-data-ad-slot: "1363087678"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
