@@ -15,7 +15,7 @@ authors:
     name: Dee
     display_name: Dee
     email: deehamlin1@gmail.com
-    description: "Founder and artist of Dezigns"
+    description: "Founder and artist of Deezigns"
   ben:
     name: KaptinBadrukk314
     display_name: kaptinbadrukk314
@@ -63,4 +63,6 @@ adsense: "disabled"
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
 
-exclude: [README.md, Gemfile, Gemfile.lock]
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+
+theme: jekyll-theme-cayman
