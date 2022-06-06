@@ -1,7 +1,7 @@
 # Site
 name: "Deezigns"
 title: "Deezigns"
-description: ""
+description: "Deezigns by Dee Hamlin comes from a life of creating and exploring possibilities in texture, color, contrast, fibers, with just about any medium I can get my hands on."
 logo: ''
 favicon: ''
 baseurl: ''
@@ -9,21 +9,30 @@ google_analytics: ''
 include: ["_pages"]
 permalink: /:title/
 
+defaults:
+  -scope:
+    path: "assets/images"
+  values:
+    image: true
+
 # Authors
 authors:
   dee:
-    name: Dee
-    display_name: Dee
+    name: Deanna Hamlin
+    display_name: OuttaMyGourd
     email: deehamlin1@gmail.com
-    description: "Founder and artist of Deezigns"
+    avatar: assets/images/20200921_140222.jpg
+    description: "<p>My Grandma, Merla, was a painter and her mom, Dora (my Meme), was a crafter.  My sister and I spent a lot of time between Grandma and Meme's houses growing up while our parents dealt with an unpleasant divorce. 
+    At Grandma's we had our own art boxes loaded with everything we needed to draw and paint with while we learned. Oil pastels, charcoal, leads, colored pencils and yes, we had crayons too. She was a seamstress and we also learned to sew! Later in life she did jewelry making with pieces she purchased in Arizona each winter on their snowbird travels.
+    At Meme's house we never knew what we'd get to learn. There was always an adventurous creative outlet waiting for us. We explored leather tooling, wood carving, mosaic, weaving, macramé, collaging, jewelry making, and just about any other craft you could imagine.</p>"
   ben:
-    name: KaptinBadrukk314
+    name: Benjamin Hamlin
     display_name: kaptinbadrukk314
     gravatar: f783aabb998dccdc83e001d95cce1339
     email: kaptinbadrukk314@gmail.com
     web: https://linktr.ee/KaptinBadrukk314
     twitter: https://twitter.com/KaptinBadrukkPi
-    description: "Software engineer and web developer. Assisted in creating and maintaining the website."
+    description: "Software engineer, web developer, and variety streamer on Twitch. Assisted in creating and maintaining the website."
 
 # Plugins
 plugins:
@@ -65,4 +74,4 @@ lazyimages: "disabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
 
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
