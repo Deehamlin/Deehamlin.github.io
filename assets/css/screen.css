@@ -724,8 +724,7 @@ img {
 }
 
 .art-img {
-    width: 50%;
-    height: 50%;
+    height: 600px;
 }
 
 .bottompagination span.navigation {
@@ -903,4 +902,27 @@ iframe {
 .lazyimg[data-srcset] {
     opacity: 0;
     transition: opacity .25s;
+}
+
+.carousel-item.active{
+  display: flex;
+  justify-content: center;
+}
+
+.carousel-item{
+  justify-content: center;
+}
+
+.carousel-inner {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.carousel-control-prev{
+  background-color: #000;
+}
+
+.carousel-control-next{
+  background-color: #000;
 }
