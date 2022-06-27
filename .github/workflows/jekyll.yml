@@ -1,4 +1,4 @@
-name: Jekyll
+name: Jekyll Build
 
 on: [pull_request, push]
 
@@ -8,11 +8,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
-        with:
-          node-version: 14
       - uses: ruby/setup-ruby@v1
-      - run: npm ci
+        with:
+          ruby-version: '3.0'
+          bundler-cache: true
       - run: gem install jekyll bundle
-      - run: bundle exec
-      - run: jekyll build
+      - run: bundle exec jekyll build
