@@ -1,4 +1,4 @@
-name: Jekyll
+name: Jekyll Build
 
 on: [pull_request, push]
 
@@ -15,7 +15,7 @@ jobs:
         with:
           ruby-version: '3.0'
           bundler-cache: true
-      - run: npm ci
+      - run: npm i
       - run: gem install jekyll bundle
       - run: bundle exec
       - run: jekyll build
