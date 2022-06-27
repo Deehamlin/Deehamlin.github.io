@@ -1,0 +1,11 @@
+name: Jekyll
+
+on: [pull_request, push]
+
+jobs:
+  build:
+    name: Build
+      runs-on: ubuntu-latest
+      steps:
+        - npm i
+        - jekyll build
