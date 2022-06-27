@@ -11,5 +11,8 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 14
-      - run: npm i
+      - uses: ruby/setup-ruby@v1
+      - run: npm ci
+      - run: gem install jekyll bundle
+      - run: bundle exec
       - run: jekyll build
