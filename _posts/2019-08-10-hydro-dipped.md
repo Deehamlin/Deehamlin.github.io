@@ -2,7 +2,7 @@
 layout: post
 title: "Hydro Dipped"
 author: dee
-categories: [ GOURD ]
+categories: [ GOURDS ]
 image: assets/images/20190810_145838.jpg
 gallery: [ assets/images/20190810_200541.jpg, assets/images/20190727_202402.jpg, assets/images/20190810_232307.jpg ]
 tags: [ hydro dip ]

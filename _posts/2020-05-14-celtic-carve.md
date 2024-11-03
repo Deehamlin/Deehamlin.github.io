@@ -2,7 +2,7 @@
 layout: post
 title: "Celtic Carve"
 author: dee
-categories: [ GOURD ]
+categories: [ GOURDS ]
 image: assets/images/20200514_183148.jpg
 gallery: [ assets/images/20191008_183148.jpg]
 tags: [ carving, paint ]
