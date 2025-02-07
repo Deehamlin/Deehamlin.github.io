@@ -4,7 +4,7 @@ title: "Celtic Carve"
 author: dee
 categories: [ GOURD ]
 image: assets/images/20200514_183148.jpg
-gallery: [ assets/images/20191008_183148.jpg]
+gallery: [ assets/images/20191008_175922.jpg]
 tags: [ carving, paint ]
 description: "Celtic Carve"
 featured: true
