@@ -3,13 +3,12 @@ layout: post
 title: "On the Savanah"
 author: dee
 categories: [ GOURDS ]
-image: assets/images/20200922_170433.jpg
-gallery: [ assets/images/20200923_202920.jpg ]
+image: assets/images/onthesavanah2.jpg
+gallery: [ assets/images/onthesavanah1.jpg ]
 tags: [ gourd ink dyes, carving ]
 description: "On the Savanah"
 featured: true
 hidden: false
-rating: 4.5
 ---
 
 ## On the Savanah

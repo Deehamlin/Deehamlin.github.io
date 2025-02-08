@@ -3,13 +3,12 @@ layout: post
 title: "Arthur Cadwell"
 author: dee
 categories: [ GOURDS ]
-image: assets/images/20200629_173656.jpg
-gallery: [ assets/images/20200609_115648.jpg , assets/images/20200623_205256.jpg , assets/images/20200629_173944.jpg ]
+image: assets/images/artcaddy4.jpg
+gallery: [ assets/images/artcaddy1.jpg , assets/images/artcaddy2.jpg , assets/images/artcaddy3.jpg ]
 tags: [ gourd ink dyes, weaving, carving ]
 description: "Arthur Cadwell"
 featured: true
 hidden: false
-rating: 4.5
 ---
 
 ## Arthur Cadwell

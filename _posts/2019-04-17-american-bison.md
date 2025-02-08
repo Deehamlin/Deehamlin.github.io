@@ -3,13 +3,12 @@ layout: post
 title: "American Bison"
 author: dee
 categories: [ GOURDS ]
-image: assets/images/20190417_185230.jpg
-gallery: [ assets/images/20190409_194051.jpg, assets/images/20190413_111700.jpg, assets/images/20190413_135105.jpg, assets/images/20190417_083455.jpg, assets/images/20190517_151728.jpg ]
+image: assets/images/bisongourd.jpg
+gallery: [ assets/images/bison1.jpg, assets/images/bison2.jpg, assets/images/bison3.jpg, assets/images/bison4.jpg, assets/images/bison5.jpg ]
 tags: [ woodburning, alcohol ink, pointillism ]
 description: "First Gourd Class. American Bison"
 featured: true
 hidden: false
-rating: 4.5
 ---
 
 ## First Gourd Class

@@ -3,13 +3,12 @@ layout: post
 title: "Swirl Coiling"
 author: dee
 categories: [ GOURDS ]
-image: assets/images/20201016_200111.jpg
-gallery: [ assets/images/20201016_200052.jpg]
+image: assets/images/alcoholinkspineneedle.jpg
+gallery: [ assets/images/alcoholinks1.jpg]
 tags: [ weaving, coiling, gourd ink dyes, carving ]
 description: "Swirl Coiling"
 featured: false
 hidden: false
-rating: 4.5
 ---
 
 ## Swirl Coiling
