@@ -2,14 +2,13 @@
 layout: post
 title: "Celtic Carve"
 author: dee
-categories: [ GOURD ]
-image: assets/images/20200514_183148.jpg
-gallery: [ assets/images/20191008_183148.jpg]
+categories: [ GOURDS ]
+image: assets/images/celticgourd.jpg
+gallery: [ assets/images/celticbonnie1.jpg, assets/images/celticbonnie2.jpg]
 tags: [ carving, paint ]
 description: "Celtic Carve"
 featured: true
 hidden: false
-rating: 4.5
 ---
 
 ## Celtic Carve
