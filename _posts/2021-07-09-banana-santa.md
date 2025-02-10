@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Banana Santa"
+title: "Santa Ornament"
 author: dee
 categories: [ GOURDS ]
-image: assets/images/bananasanta5.jpg
-gallery: [ assets/images/bananasanta1.jpg, assets/images/bananasanta2.jpg, assets/images/bananasanta3.jpg, assets/images/bananasanta4.jpg ]
+image: assets/images/SantaOrnament.jpg
+gallery: [ assets/images/bananasanta1.jpg, assets/images/bananasanta2.jpg, assets/images/bananasanta3.jpg, assets/images/bananasanta4.jpg, assets/images/bananasanta5.jpg]
 tags: [ gourd ink dyes, quickwood ]
-description: "Banana Santa"
+description: "Santa Ornament"
 featured: false
 hidden: false
 ---
 
-## Banana Santa
+## Santa Ornament
 
-Santa head made from a banana gourd.
+Banana gourd with Quickwood sculpture.
