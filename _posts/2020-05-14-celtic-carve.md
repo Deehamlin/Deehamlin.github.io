@@ -14,4 +14,4 @@ hidden: false
 ## Celtic Carve
 
 A two-day carving class with Bonnie Gibson helped push me out of my comfort zone.
-I chose to do a Celtic theme for this carved and painted gourd.  What looks like inlayed stone is just gourd carved in relief and painted.  This gourd is for sale $225.00
+I chose to do a Celtic theme for this carved and painted gourd.  What looks like inlayed stone is just gourd carved in relief and painted.
