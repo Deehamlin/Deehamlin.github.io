@@ -13,4 +13,4 @@ hidden: false
 
 ## Standing Santa
 
-Group class made with a banana gourd and Quickwood.  Sold as soon as I finished it.
+Group class made with a banana gourd and Quickwood.

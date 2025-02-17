@@ -12,4 +12,4 @@ hidden: false
 
 ## Colorful Coiling
 
-My first coiling class. I learned so much!  This gourd sold right after I made it.
+My first coiling class. I learned so much!

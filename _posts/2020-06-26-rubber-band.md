@@ -12,4 +12,4 @@ hidden: false
 
 ## Rubber Banding
 
-A special gourd made for my Dad and Mom using rubber bands and other experimental techniques.  I ended up redoing the pine needle coil and making the bundle thinner.
+A gourd made using rubber bands and other experimental techniques. Rubber bands were put on before using gourd ink dyes and taken off after drying.

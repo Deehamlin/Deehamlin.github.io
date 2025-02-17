@@ -12,4 +12,4 @@ hidden: false
 
 ## Penguin Lamp
 
-Zoom class with Susan Tabor. Gift for my grandson, Connor.
+Zoom class with Susan Tabor.

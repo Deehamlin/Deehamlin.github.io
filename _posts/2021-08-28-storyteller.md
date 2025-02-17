@@ -12,5 +12,4 @@ hidden: false
 
 ## Storyteller
 
-Class taught by Susan Potter
-This gourd is for sale.
+Class taught by Susan Potter.

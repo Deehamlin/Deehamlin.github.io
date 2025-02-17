@@ -13,4 +13,4 @@ hidden: false
 
 ## Swirl Coiling
 
-Made with a larger gourd. Alcohol inks, pine needles, Quickwood and altered pages made into cabochons.  Gift for my dad on Father’s Day.
+Made with a larger gourd. Alcohol inks, pine needles, Quickwood and altered pages made into cabochons.
