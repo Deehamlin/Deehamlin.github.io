@@ -5,7 +5,7 @@ author: dee
 categories: [ GOURDS ]
 image: assets/images/Santahead2.jpg
 gallery: [ assets/images/Santahead.jpg]
-tags: [ gourd ink dyes ]
+tags: [ acrylic paint ]
 description: "Santa Head"
 featured: false
 hidden: false

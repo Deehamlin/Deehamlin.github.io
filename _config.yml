@@ -3,7 +3,7 @@ name: "Deezigns"
 title: "Deezigns<sub>by Dee Hamlin</sub>"
 description: "Deezigns by Dee Hamlin comes from a life of creating and exploring possibilities in texture, color, contrast, fibers, and with just about any medium I can get my hands on."
 logo: 'assets/images/DeezignsLOGO.jpg'
-favicon: ''
+favicon: 'assets/images/DeezignsLOGOFavicon.png'
 baseurl: ''
 google_analytics: ''
 include: ["_pages"]

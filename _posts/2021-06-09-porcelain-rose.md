@@ -14,4 +14,3 @@ hidden: false
 ## Porcelain Rose
 
 Class taught by Susan Potter using light woodburning and small amounts of gourd ink colors.
-Gifted to Collette Fisher

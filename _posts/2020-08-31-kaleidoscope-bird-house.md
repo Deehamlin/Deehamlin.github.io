@@ -12,4 +12,4 @@ hidden: false
 
 ## Kaleidoscope Bird House
 
-Base coated in white. I used 1/8th inch wide tape to make the different sections to paint. Gifted to my aunt.
+Base coated in white. I used 1/8th inch wide tape to make the different sections to paint.

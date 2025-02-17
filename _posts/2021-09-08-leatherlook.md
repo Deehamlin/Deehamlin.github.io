@@ -14,4 +14,3 @@ hidden: false
 ## Leather Look
 
 Zoom class with Marla Garber.
-Gifted to my sister, Erica

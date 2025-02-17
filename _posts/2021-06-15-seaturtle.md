@@ -14,4 +14,3 @@ hidden: false
 ## Sea Turtle
 
 Zoom class with Marla Garber.
-My husband claimed this, and it sits on his desk at work.

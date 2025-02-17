@@ -13,4 +13,4 @@ hidden: false
 
 ## Hoot and Annie
 
-Class taught by Cathy Baldwin. Acrylic paint and Prismacolor pencils. Gifted to my mom for Mother’s Day.
+Class taught by Cathy Baldwin. Acrylic paint and Prismacolor pencils.

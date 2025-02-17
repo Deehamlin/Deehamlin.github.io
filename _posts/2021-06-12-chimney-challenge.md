@@ -14,4 +14,3 @@ hidden: false
 ## Chimney Challenge
 
 We were challenged to create a piece of art with a gourd of this shape.
-This gourd is for sale.

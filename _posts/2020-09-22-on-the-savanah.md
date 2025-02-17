@@ -13,4 +13,4 @@ hidden: false
 
 ## On the Savanah
 
-One of my favorite gourds. Wood burned, carved and gourd ink dyes.  This gourd sold not long after I finished it.
+One of my favorite gourds. Wood burned, carved and gourd ink dyes.
