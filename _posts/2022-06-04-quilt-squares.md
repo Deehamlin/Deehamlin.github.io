@@ -3,7 +3,7 @@ layout: post
 title: "Gourd Quilt Squares"
 author: dee
 categories: [ GOURDS, QUILTS ]
-image: assets/images/QuiltSquares.jpg
+image: assets/images/QuiltSquare.jpg
 tags: [ gourd ink dye ]
 description: "Gourd Quilt Squares"
 featured: false
