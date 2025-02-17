@@ -4,7 +4,7 @@ title: "Colorful Coil"
 author: dee
 categories: [ GOURDS ]
 image: assets/images/dreamcatcher.jpg
-tags: [ weaving, coiling, gourd ink dyes, carving ]
+tags: [ coiling, gourd ink dyes, carving ]
 description: "Colorful Coil"
 featured: false
 hidden: false
