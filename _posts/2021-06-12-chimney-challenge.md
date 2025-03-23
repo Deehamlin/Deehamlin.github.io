@@ -5,7 +5,7 @@ author: dee
 categories: [ GOURDS ]
 image: assets/images/colorschimney2.jpg
 gallery: [ assets/images/colorschimney1.jpg]
-tags: [ acrylic paint, weaving ]
+tags: [ acrylic paint, weaving, woodburning ]
 description: "Chimney Challenge"
 featured: false
 hidden: false

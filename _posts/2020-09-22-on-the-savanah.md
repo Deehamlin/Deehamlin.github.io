@@ -5,7 +5,7 @@ author: dee
 categories: [ GOURDS ]
 image: assets/images/onthesavanah2.jpg
 gallery: [ assets/images/onthesavanah1.jpg ]
-tags: [ gourd ink dyes, carving ]
+tags: [ gourd ink dyes, carving, woodburning ]
 description: "On the Savanah"
 featured: true
 hidden: false

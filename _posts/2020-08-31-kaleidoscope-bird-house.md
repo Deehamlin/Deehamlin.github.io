@@ -4,7 +4,7 @@ title: "Kaleidoscope Bird House"
 author: dee
 categories: [ GOURDS ]
 image: assets/images/birdhouse1.jpg
-tags: [ gourd ink dyes, carving, masking, painting ]
+tags: [ carving, masking, acrylic paints ]
 description: "Kaleidoscope Bird House"
 featured: false
 hidden: false

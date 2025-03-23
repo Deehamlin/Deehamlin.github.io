@@ -5,7 +5,7 @@ author: dee
 categories: [ GOURDS ]
 image: assets/images/artcaddy4.jpg
 gallery: [ assets/images/artcaddy1.jpg , assets/images/artcaddy2.jpg , assets/images/artcaddy3.jpg ]
-tags: [ gourd ink dyes, weaving, carving ]
+tags: [ gourd ink dyes, coiling, carving ]
 description: "Arthur Cadwell"
 featured: true
 hidden: false

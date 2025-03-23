@@ -5,7 +5,7 @@ author: dee
 categories: [ GOURDS ]
 image: assets/images/WireRim.jpg
 gallery: [ assets/images/seedbeadrim.jpg, assets/images/seedbeadtrimandearrings.jpg ]
-tags: [ gourd ink dyes, quickwood ]
+tags: [ gourd ink dyes ]
 description: "Wire Beaded Rim"
 featured: false
 hidden: false

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Gourd Quilt Squares"
+title: "Gourd Quilt Square"
 author: dee
-categories: [ GOURDS, QUILTS ]
+categories: [ GOURDS, QUILTS, SCULPTURES ]
 image: assets/images/QuiltSquare.jpg
-tags: [ gourd ink dye ]
-description: "Gourd Quilt Squares"
+tags: [ alcohol ink, wax linen thread ]
+description: "Gourd Quilt Square"
 featured: false
 hidden: false
 ---
 
-## Gourd Quilt Squares
+## Gourd Quilt Square
 
 Pieces of gourd colored like fabric and sewn together with waxed linen colored thread.

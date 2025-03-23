@@ -4,7 +4,7 @@ title: "Rubber Banding"
 author: dee
 categories: [ BASKETS ]
 image: assets/images/multitechnique.jpg
-tags: [ rubberband, gourd ink dyes, weaving ]
+tags: [ rubberband, gourd ink dyes, coiling ]
 description: "Rubber Bands"
 featured: false
 hidden: false

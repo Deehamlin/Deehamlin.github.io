@@ -4,7 +4,7 @@ title: "Hot Air Balloon"
 author: dee
 categories: [ GOURDS ]
 image: assets/images/hotairballoon.jpg
-tags: [ gourd ink dyes, painting, masking, weaving ]
+tags: [ acrylic paints, masking, weaving ]
 description: "Hot air baloon"
 featured: false
 hidden: false

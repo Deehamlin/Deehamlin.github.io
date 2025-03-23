@@ -5,7 +5,7 @@ author: dee
 categories: [ GOURDS ]
 image: assets/images/celticgourd.jpg
 gallery: [ assets/images/celticbonnie1.jpg, assets/images/celticbonnie2.jpg]
-tags: [ carving, paint ]
+tags: [ carving, paint, woodburning ]
 description: "Celtic Carve"
 featured: true
 hidden: false
